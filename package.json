@@ -1,4 +1,40 @@
 {
-	
-	"author": "Navsangeet Kaur"
+	"name": "fcc-learn-npm-package-json",
+	"author": "Navsangeet kaur",
+	"description": "This project is to learn node.js and how to craete package.json",
+	"keywords": [
+		"packagejson",
+		"node",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
+	"dependencies": {
+		"express": "^4.17.1"
+		 "moment" : "~2.10.2"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/navsangeet99/FreeCodeCamp.git"
+	}
 }
+<!DOCTYPE html>
+<html lang="en">
+	<title>CS 355 Home Page</title>
+	<body>
+		<h1>This is my home page for CS 355</h1>
+		<h3>Navsangeet Kaur</h3>
+		<p> I am going to add the zybook assignment and linkedin as well here</p>
+		<ul>
+		<li><a href="Weather_App_Local/index.html">Weather App</a></li>
+		<li><a href="Portfolio/index.html">Portfolio-In process</a></li>
+		<li><a href="https://boilerplate-npm-1.navsangeet.repl.co" onclick="window.open(‘https://boilerplate-npm-1.navsangeet.repl.co’,‘_self’);">Zybook Chapter 17 Part A</a><li>
+		<li><a href="https://boilerplate-express-1.navsangeet.repl.co" onclick="window.open(‘https://boilerplate-express-1.navsangeet.repl.co’,‘_self’);">Zybook Chapter 17 Part B-Express</a><li>
+		</ul>
+		<footer>kaur 2021</footer>
+	</body>
+</html>
