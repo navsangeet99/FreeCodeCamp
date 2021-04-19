@@ -1,2 +1,4 @@
-# boilerplate-npm
-A boilerplate for the freeCodeCamp curriculum.
+# FreeCodeCamp
+* package.json
+* myApp.js
+
