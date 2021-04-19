@@ -30,10 +30,11 @@
 		<h3>Navsangeet Kaur</h3>
 		<p> I am going to add the zybook assignment and linkedin as well here</p>
 		<ul>
-		<li><a href="Weather_App_Local/index.html">Weather App</a></li>
-		<li><a href="Portfolio/index.html">Portfolio-In process</a></li>
-		<li><a href="https://boilerplate-npm-1.navsangeet.repl.co" onclick="window.open(‘https://boilerplate-npm-1.navsangeet.repl.co’,‘_self’);">Zybook Chapter 17 Part A</a><li>
-		<li><a href="https://boilerplate-express-1.navsangeet.repl.co" onclick="window.open(‘https://boilerplate-express-1.navsangeet.repl.co’,‘_self’);">Zybook Chapter 17 Part B-Express</a><li>
+			<li><a href="Weather_App_Local/index.html">Weather App</a></li>
+			<li><a href="Portfolio/index.html">Portfolio-In process</a></li>
+			<li><a href="https://github.com/navsangeet99/FreeCodeCamp/blob/master/package.json">Zybook-Pacakge.json</a></li> 
+			<li><a href="https://github.com/navsangeet99/FreeCodeCamp/blob/master/myApp.js">Zybook-Express:myApp.js</a></li>
+			<li><a href="https://bhassan6621.github.io/qcfirst/src/Index.html">Final project</a></li>
 		</ul>
 		<footer>kaur 2021</footer>
 	</body>
